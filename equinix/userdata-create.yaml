@@ -3,8 +3,8 @@ scheme_version: 1
 token: token           # replace with a desired token
 os:
   ssh_authorized_keys:
-  - ssh-rsa ...        # replace with your public key
-  password: p@ssword   # replace with a your password
+  - ssh-rsa ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA0Bu2M0b9leK1TUlIGu6ssqdOwO63ReTM8sazfWdMrxxJC0O2xsqLAgRiyYS053xKO5RmDCXeSCzK0dIPPOP8xmsgGsqeh/QrYMwY+/PBlv3saTRpbajObNkR87dvfzYIcB/TPsVoiwi97Yi36jLizda83bOroF7H+nV1NLqBh6DoAV3FLo7AMZIdeypNwreI2lgP4fEqmMMkN0Hwl03UbXLcIbpGIvG3xRDtpaXjjctsB7wzJZCLF606fz8PlRezGQUXfVXbxrVDc++OkyqL2UYSv7n+JGqfkGw73VRU77GE8soMHPopN2dq1AAiw/N6lTxnYScEeDyQVPMnfnmEfQ== rsa-key-20230716
+  password: password1234   # replace with a your password
   ntp_servers:
   - 0.suse.pool.ntp.org
   - 1.suse.pool.ntp.org
